@@ -1,7 +1,7 @@
 # CustomEvents
 Create and dispatch your own events for modular apps.
 
-For our Demo Code
+For our Demo Code: dcjustiniani.github.io/CustomEvents/
 
 How It Works
 
